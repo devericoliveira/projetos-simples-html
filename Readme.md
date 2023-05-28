@@ -24,3 +24,10 @@
 
   <a href="https://devericoliveira.github.io/projetos-simples-html/top_series_netflix/index.html" target="_blank">Ver projeto</a>
 <dl>
+
+<dl>
+  <dt>Formulário de atendimento</dt>
+  <dd>Um projeto simples para realização de suporte para atendimento de pedidos utlizando formulário semântico.</dd>
+
+  <a href="https://devericoliveira.github.io/projetos-simples-html/formulario_de_atendimento/index.html" target="_blank">Ver projeto</a>
+<dl>
