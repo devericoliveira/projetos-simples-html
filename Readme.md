@@ -17,3 +17,10 @@
 
   <a href="https://devericoliveira.github.io/projetos-simples-html/lista_de_tarefas/index.html" target="_blank">Ver projeto</a>
 <dl>
+
+<dl>
+  <dt>Top séries netflix</dt>
+  <dd>Um projeto simples para colocar em prática os conceitos de tabela, usando uma boa semântica.</dd>
+
+  <a href="https://devericoliveira.github.io/projetos-simples-html/top_series_netflix/index.html" target="_blank">Ver projeto</a>
+<dl>
